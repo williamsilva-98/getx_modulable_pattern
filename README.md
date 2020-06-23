@@ -1,6 +1,7 @@
-# getx_modular_pattern
+# Padrão de projeto orientado a módulos com GetX State Manager
 
-A new Flutter project.
+O projeto exemplo apresenta uma estrutura de módulos utilizada em conjunto com o gerenciador de estados GetX, que visa facilitar na hora da manutenção no código.
+Você pode baixar esse repositório e começar a aplicar em seus projetos, caso esta arquitetura orientada a módulos atenda os requisitos da sua aplicação.
 
 ## Getting Started
 
