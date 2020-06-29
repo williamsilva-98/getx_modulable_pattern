@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:getx_modular_pattern/app/modules/home/data/models/post_model.dart';
+import 'package:getx_modular_pattern/app/data/models/post_model.dart';
 import 'package:http/http.dart' as http;
 import 'package:meta/meta.dart';
 

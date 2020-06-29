@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
+import 'package:getx_modular_pattern/app/data/models/post_model.dart';
+import 'package:getx_modular_pattern/app/data/repository/posts_repository.dart';
 import 'package:meta/meta.dart';
-import 'data/models/post_model.dart';
-import 'data/repository/posts_repository.dart';
 
 class HomeController extends RxController {
   final PostsRepository repository;

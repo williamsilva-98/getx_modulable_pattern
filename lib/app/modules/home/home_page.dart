@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:getx_modular_pattern/app/data/providers/posts_provider.dart';
+import 'package:getx_modular_pattern/app/data/repository/posts_repository.dart';
 import 'package:http/http.dart' as http;
-import 'data/providers/posts_provider.dart';
-import 'data/repository/posts_repository.dart';
 import 'home_controller.dart';
 
 class HomePage extends StatelessWidget {

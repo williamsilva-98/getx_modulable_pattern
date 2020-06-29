@@ -1,4 +1,4 @@
-import 'package:getx_modular_pattern/app/modules/home/data/providers/posts_provider.dart';
+import 'package:getx_modular_pattern/app/data/providers/posts_provider.dart';
 import 'package:meta/meta.dart';
 
 class PostsRepository {
